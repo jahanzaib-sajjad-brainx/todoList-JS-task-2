@@ -1,0 +1,19 @@
+
+.checkbox:checked,.checkbox-label{
+        text-decoration: line-through;
+}
+
+
+/* <div id="list-item" style="visibility: hidden">
+
+                <div class="float-left">
+                    <input type="checkbox" id="listitem" name="listitem" class="checkbox" onchange="func(this.val)"> 
+                    <label for="listitem" class="checkbox-label" id="checkbox-label">hi</label><br>
+                </div>
+
+                <div class="float-right">
+                    <i class="fa-solid fa-pen-to-square me-3"></i>
+                    <i class="fa-solid fa-trash me-3"></i>
+                </div>
+                <hr style="clear: both;">
+            </div> */
